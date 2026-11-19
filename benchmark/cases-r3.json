@@ -1,0 +1,602 @@
+[
+  {
+    "id": "r3-scam-001",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Travel Consultant (Remote) - Toronto, ON\n$60,000 - $90,000 a year\n\nLove travel? Turn your passion into a paycheque! We are growing fast and looking for motivated people to join our travel team. No experience needed - full training provided.\n\n- Work from anywhere, set your own hours\n- Earn while you travel\n- Exclusive travel perks for you and your family\n\nThere is no traditional interview. Click Apply to reserve your seat at our next virtual Career Overview, where you'll learn exactly how our consultants earn.",
+    "note": "Salary-looking range on a posting that leads to a group 'career overview' instead of an interview; the funnel the CBC Visual Investigations report describes (fake job ads that route applicants into a pay-to-join travel MLM). The range is the hook Ontario's posting rules expect to mean expected pay.",
+    "source": "https://www.youtube.com/watch?v=RioE6ClJbaM"
+  },
+  {
+    "id": "r3-scam-002",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Destination Specialist - Entry Level - 100% Work From Home\nPay: $1,200 - $2,400 per week\n\nWandrisle Careers is hiring Destination Specialists in all 50 states! Help families plan dream vacations from your laptop or phone. Our top new specialists hit five figures in their first 90 days.\n\nWhat you get: booking portal, certification, mentorship, wholesale travel pricing.\nOne-time enrollment of $49.99 activates your portal and certification.\n\nApply today: wandrislecareers.com/apply",
+    "note": "Weekly pay range plus an enrollment fee to 'activate' the role and atypical top-earner claims; BBB Scam Tracker reports describe paying a certification fee to start as a 'travel agent' that turned out to be an MLM, and the FTC says honest employers never charge you to get a job.",
+    "source": null
+  },
+  {
+    "id": "r3-scam-003",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "From: Hiring Team <horizanthe.hiring@gmail.com>\nSubject: Congratulations - you've been selected for the next step!\n\nHi Marcus,\n\nThank you for applying for our Remote Travel Advisor position. Your application really stood out to our hiring manager!\n\nBecause we receive so many applications, the next step is a Group Discovery Session on Zoom this Tuesday at 7:00 PM EST. Cameras can stay off and there is nothing to prepare. Seats are limited to 40 so please confirm right away.\n\nAt the end of the session you'll have the chance to secure your spot on the team.\n\nWarm regards,\nTalia Brenner\nHiring Manager, Horizanthe Travel Group",
+    "note": "The 'hiring manager' follow-up that skips any interview and routes every applicant to a group session ending in a sign-up; free-mail sender. Pattern from the CBC report and BBB travel-agent webinar reports.",
+    "source": "https://www.youtube.com/watch?v=RioE6ClJbaM"
+  },
+  {
+    "id": "r3-scam-004",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "invite",
+    "split": "test",
+    "text": "YOU'RE INVITED: Opportunity Overview\nThursday, 8:00 PM ET (live online)\n\nCome see why hundreds of everyday people are leaving the 9-to-5 behind. Tonight we'll cover:\n- How our members earn on every trip booked AND on every new member they bring in\n- Real stories from members now earning full-time income part-time\n- How to lock in Founders pricing before it goes up\n\nBring a notebook and bring your spouse or partner - we want both decision-makers on the call. After the presentation you can secure your position with the Founders Package.\n\nRSVP with your sponsor's name.",
+    "note": "Group presentation that sells a package, pays on recruitment as well as sales, and pushes urgency and lifestyle claims: the FTC's warning signs (recruiting over selling, extravagant earnings claims, high pressure).",
+    "source": "https://consumer.ftc.gov/articles/multi-level-marketing-businesses-and-pyramid-schemes"
+  },
+  {
+    "id": "r3-scam-005",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "agreement",
+    "split": "test",
+    "text": "INDEPENDENT TRAVEL AFFILIATE AGREEMENT - Voyalumen Club\n\n1. Enrollment. Affiliate shall pay a one-time Enrollment Fee of $199.95 and a monthly Technology & Membership Fee of $59.99, billed automatically on the enrollment date each month.\n2. Status. Affiliate is an independent contractor and not an employee, agent or franchisee of the Company. No wages, salary or minimum earnings are provided.\n3. Compensation. Affiliate may earn (a) commissions on personal travel bookings and (b) Team Bonuses on the Enrollment Fees and monthly fees of Affiliates personally sponsored into Affiliate's organization and their downline, as set out in the Compensation Plan.\n4. Active Status. To qualify for any commission or bonus, Affiliate must maintain an active monthly membership.\n5. Refunds. Enrollment Fees are refundable only within 3 days of enrollment.\n\nSponsor ID: ________  Placement: Left / Right\nAffiliate signature: ________________",
+    "note": "Distributor/affiliate agreement where income comes from enrollment and monthly fees of recruits, eligibility requires a recurring fee, and the refund window is tiny; the FTC MLM business guidance (pay tied to recruitment and required purchases) and the travel-club pyramid pattern Truth in Advertising and the California AG described.",
+    "source": "https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing"
+  },
+  {
+    "id": "r3-scam-006",
+    "label": "scam",
+    "ambiguous": true,
+    "kind": "message",
+    "split": "test",
+    "text": "Hey Priya!! Love your profile 😊 I'm actually expanding my team in the travel space right now - remote, flexible, multiple streams of income. Not gonna lie it's changed my life, I fired my boss last spring 🙌 Are you open to hearing more? It's not a job, it's honestly better than a job. Happy to send you a quick video!",
+    "note": "Social DM recruiting into a team with lifestyle and 'fire your boss' claims; the FTC and ASA flag atypical earnings and lifestyle claims in MLM recruitment. Ambiguous: it says outright that it is not a job and asks for nothing yet, so a checker could reasonably call it an MLM pitch rather than a job scam.",
+    "source": "https://www.asa.org.uk/news/contacting-multi-level-marketing-companies-to-ensure-recruitment-ads-aren-t-misleading.html"
+  },
+  {
+    "id": "r3-scam-007",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "message",
+    "split": "test",
+    "text": "Hi, this is Dana from Wandrisle Careers. We found your resume on an online job board and think you'd be a great fit for our remote Booking Agent role ($28-$45/hr, flexible). Reply YES to get the link to tonight's onboarding webinar. Reply STOP to opt out.",
+    "note": "Unsolicited text offering an hourly-looking rate and a webinar instead of an interview; the FTC's job-scam guidance lists unsolicited offers from strangers, and the CBC report's funnel ran through webinars.",
+    "source": "https://consumer.ftc.gov/articles/job-scams"
+  },
+  {
+    "id": "r3-scam-008",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Holiday Booking Advisor - Home Based - Immediate Start\n£32,000 - £48,000 OTE\n\nAre you organised, friendly and fed up of the commute? Join Sunvale Bookings and plan holidays for friends, family and your wider network from home.\n\nThis is a self-employed opportunity. To get started there is a small start-up investment of £129 plus £39.99 per month for your personalised booking website and training hub. Most advisors cover their costs in month one!\n\nNo CV required - just message us 'HOLIDAY' to find out more.",
+    "note": "UK ad with an OTE figure for a self-employed role that requires a start-up payment and a monthly fee, selling to 'your network'; ASA action on misleading MLM recruitment ads and the FTC on recurring fees.",
+    "source": "https://www.asa.org.uk/news/contacting-multi-level-marketing-companies-to-ensure-recruitment-ads-aren-t-misleading.html"
+  },
+  {
+    "id": "r3-scam-009",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "TRAVEL CONCIERGE - WORK ANYWHERE IN AUSTRALIA\n$85k+ potential\n\nNo experience? No worries. We teach you everything. Book holidays for clients and earn generous commissions, plus bonuses when you help others start their own travel business.\n\nTo be activated as a Concierge there's a one-off licensing fee of $295 AUD. Spots in this intake are limited.\n\nDM 'TRAVEL' to Koralee Escapes to grab your spot.",
+    "note": "Australian ad: pay-to-join licensing fee and rewards for bringing in others; Scamwatch lists paying to join and payments for recruiting as pyramid-scheme warning signs.",
+    "source": "https://www.scamwatch.gov.au/types-of-scams/jobs-and-employment-scams"
+  },
+  {
+    "id": "r3-scam-010",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: Your Marketing Associate Offer\n\nDear Jordan,\n\nWe are delighted to offer you the position of Marketing Associate with Pellamy Path Marketing!\n\nTo clarify how compensation works: this role is 100% performance-based. There is no base pay or hourly rate. Associates earn on product sales and on the sales volume of associates they develop.\n\nBefore your first training day, please purchase the Associate Starter Kit ($350), which includes your demo inventory and marketing materials. You can pay securely here: pellamypathmarketing.com/starter\n\nWe look forward to building something great together!\n\nBest,\nRenata Koury\nRegional Director",
+    "note": "'Offer' that discloses only after the application that there is no pay and the hire must buy inventory first; the FTC lists required purchases before earning and pay tied to recruits' volume as warning signs.",
+    "source": "https://consumer.ftc.gov/articles/multi-level-marketing-businesses-and-pyramid-schemes"
+  },
+  {
+    "id": "r3-scam-011",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Administrative Assistant - Entry Level - $45K-$70K first year\n\nLarkspur Legacy Group is expanding and hiring several Administrative Assistants. Recent grads welcome!\n\nResponsibilities\n- Assist with client appointments\n- Learn our financial education system\n- Grow into a leadership role\n\nAbout the role: our associates are independent business owners. Earnings are based on personal production and team development, so your income is unlimited. Licensing course provided at a discounted fee.",
+    "note": "An 'admin assistant' title and salary range on what the body reveals is an independent, recruitment-driven business; the FTC 2023 notice warned over 1,100 businesses about money-making claims and implying no experience is needed.",
+    "source": "https://consumer.ftc.gov/consumer-alerts/2021/10/ftc-puts-over-1100-businesses-notice-about-deceptive-money-making-claims"
+  },
+  {
+    "id": "r3-scam-012",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "message",
+    "split": "test",
+    "text": "girl you would be AMAZING at this 💕💕 I literally work 2 hours a day from my phone and just got back from Cancun (paid for by my business 😎). they're hiring travel ambassadors rn and I can get you in under me. it's like $99 to start and you make it back on your first booking. want the link??",
+    "note": "Friend-to-friend DM with lifestyle claims, a start fee and 'get you in under me' placement; the FTC's MLM warning signs and its business guidance on lifestyle claims.",
+    "source": "https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing"
+  },
+  {
+    "id": "r3-scam-013",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "message",
+    "split": "test",
+    "text": "Great chatting today Kev! Like I said, when you enroll please enter my Sponsor ID RT-55210 so the system places you on my team and I can mentor you. Quick tip: get 3 people in and your membership is basically free, get 6 and you're in profit. Most of my team made back their fee in a couple of weeks. Link: emberquoytravelpass.com/join?ref=RT-55210",
+    "note": "Sponsor-ID placement with 'recruit three and it's free': income tied to recruiting, the FTC's 'two people who find two people' hallmark of a pyramid scheme.",
+    "source": "https://consumer.ftc.gov/articles/multi-level-marketing-businesses-and-pyramid-schemes"
+  },
+  {
+    "id": "r3-scam-014",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: ⏰ Fast Start cohort closes at MIDNIGHT\n\nHi Alexis,\n\nThanks for joining last night's session! I could tell you were really engaged.\n\nI held one of the last Fast Start spots for you, but I can only keep it until midnight. Enrollment is $497 today (normally $997) and includes your booking site, certification and the Fast Start bonus. After tonight the price goes back up and the bonus is gone.\n\nDon't overthink it - the people who succeed are the ones who decide fast.\n\nSecure your spot: tidewyckjourneys.com/faststart\n\nTo your freedom,\nCole",
+    "note": "Post-session pressure email with a deadline and a fake discount; the FTC says high-pressure tactics and being rushed are reasons to walk away, and the FTC business-opportunity guidance warns against being rushed.",
+    "source": "https://www.ftc.gov/business-guidance/resources/bogus-business-opportunities"
+  },
+  {
+    "id": "r3-scam-015",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Bilingual Customer Experience Representative (French/English)\nMontréal, QC - Remote\n$22 - $30 an hour\n\nHelp our travellers book unforgettable trips! Full training, flexible schedule, no experience required.\n\nHiring process: 1) online group orientation 2) purchase of the Starter Business Pack ($199 CAD) to activate your account 3) start earning.\n\nPostulez maintenant / Apply now.",
+    "note": "Canadian ad with an hourly range whose 'hiring process' is a group orientation and a purchase; the Competition Bureau lists requiring purchases beyond a start-up kit at cost and recruitment-driven pay as prohibited, and the FTC says real employers don't charge to start.",
+    "source": "https://competition-bureau.canada.ca/deceptive-marketing-practices/types-deceptive-marketing-practices/multi-level-marketing-and-pyramid-selling"
+  },
+  {
+    "id": "r3-scam-016",
+    "label": "scam",
+    "ambiguous": true,
+    "kind": "agreement",
+    "split": "test",
+    "text": "DISTRIBUTOR APPLICATION AND AGREEMENT\n\nBusiness Starter Kit: $79.00 (required)\nMonthly Autoship: minimum 100 PV per month (approx. $110) required to qualify for commissions and rank advancement.\n\nPlacement: New Distributor will be placed in the binary organization of the Sponsor named below. Sponsor ID: ______\n\nI understand that I am an independent distributor and not an employee, and that my success depends on my own efforts in selling products and building an organization. Income examples in Company materials are not typical.\n\nSignature: ______________  Date: ________",
+    "note": "Distributor agreement that makes a monthly purchase a condition of earning, with binary-tree placement; the FTC business guidance names purchase requirements to qualify for rewards as a strong warning sign. Ambiguous: lawful MLMs use similar paperwork, it never claims to be a job, and nothing in it is false on its face.",
+    "source": "https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing"
+  },
+  {
+    "id": "r3-scam-017",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "BRAND AMBASSADOR - PAID WEEKLY - $3,000 to $6,000/month\n\nWork from your phone. Post, share and earn. Perfect for students, stay-at-home parents, anyone!\n\nRequirements:\n- Smartphone\n- Positive attitude\n- $59 starter access (covers your website + training)\n\nNo interview. Message 'READY' to start today!!!",
+    "note": "Monthly earnings promise for posting from a phone, a paid 'starter access', no interview; the FTC's job-scam guidance warns of big earnings for little effort and paying to start.",
+    "source": "https://consumer.ftc.gov/articles/job-scams"
+  },
+  {
+    "id": "r3-scam-018",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: RE: Question about the salary\n\nHi Simone,\n\nGreat question! To clarify, the $70,000 in the posting reflects what our top-performing advisors average once their business is established. Advisors are not paid a salary. You'll earn commission on the bookings you make and override income from the advisors you mentor and bring onto the team.\n\nYour only startup cost is the $149 certification, and many advisors earn that back in the first month.\n\nLet me know when you're free to get started!\nBen Okafor\nTeam Lead, Bluvarra Voyages",
+    "note": "The salary bait unravels in the follow-up: the posted figure is a top-earner average, pay is commission plus overrides from recruits, and there is a certification fee. The FTC MLM guidance says earnings claims must reflect typical participants; Ontario's posting rules expect the posted figure to be expected pay.",
+    "source": "https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing"
+  },
+  {
+    "id": "r3-scam-019",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "invite",
+    "split": "test",
+    "text": "HIRING EVENT - Saturday 10 AM\nQuillan Peak Hospitality - Bowmont Inn, Meeting Room B\n\nPlease note: this is a group presentation, not an individual interview. Dress business casual and arrive 15 minutes early. Bring a friend who might also be interested!\n\nAfter the presentation, candidates who are a good fit will be invited to register. Registration ($99) covers your licence and booking tools.",
+    "note": "A 'hiring event' that is a group sales presentation ending in a paid registration, with a bring-a-friend recruiting angle; Scamwatch notes recruitment at seminars and fees before earning.",
+    "source": "https://www.scamwatch.gov.au/types-of-scams/jobs-and-employment-scams"
+  },
+  {
+    "id": "r3-scam-020",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "message",
+    "split": "test",
+    "text": "Hello dear, I am Miss Elena from Global trip partner company. We are hiring part-time online travel agent, only 2 hours per day, earn 300-800 USD daily. Very easy job, no experience. You need small deposit 120 USD to open your agent account then you can start receive booking commissions. Are you interested? Please reply quickly, few positions remaining.",
+    "note": "Unsolicited broken-English message: unrealistic daily earnings and a deposit to open an 'agent account'; the FTC's job-scam signs (big money for little work, paying to start) and Scamwatch.",
+    "source": "https://consumer.ftc.gov/articles/job-scams"
+  },
+  {
+    "id": "r3-scam-021",
+    "label": "scam",
+    "ambiguous": true,
+    "kind": "ad",
+    "split": "test",
+    "text": "NOW HIRING!!! 10 POSITIONS OPEN\nEntry level Marketing / Sales / Management\n$800 - $1200/wk\nNo exp needed, we train. Fun team atmosphere!!\nCall MONDAY ONLY to schedule a group interview: 555-0142\nMust be able to start this week.",
+    "note": "Classic salary-bait ad for what is typically commission-only field sales: weekly pay figures, vague titles that span marketing and management, group interviews, urgency. Ambiguous: no fee is asked and some such firms do pay; the label rests on the misleading pay framing, which the FTC's 2023 notice on money-making claims covers.",
+    "source": "https://consumer.ftc.gov/consumer-alerts/2021/10/ftc-puts-over-1100-businesses-notice-about-deceptive-money-making-claims"
+  },
+  {
+    "id": "r3-scam-022",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: Welcome to the team! Your next 3 steps\n\nHey Nadia! So glad you came to the overview. Here's how to get started:\n\nStep 1: Enroll at emberquoytravelpass.com/join using my code JLEE-204 and choose the Founder's Travel Pass ($379.95). The Founder's Pass unlocks full commissions.\nStep 2: Write down a list of 100 people you know - family, coworkers, gym friends, everyone.\nStep 3: Book a 3-way call with me so we can invite your first five.\n\nRemember, you're in business FOR yourself but not BY yourself!\nJess",
+    "note": "Onboarding that is enrollment under a sponsor code, a higher-priced pass to 'unlock' full commissions and a warm-market list of 100 people; the FTC's recruit-recruit-recruit and required-purchase warning signs.",
+    "source": "https://consumer.ftc.gov/articles/multi-level-marketing-businesses-and-pyramid-schemes"
+  },
+  {
+    "id": "r3-scam-023",
+    "label": "scam",
+    "ambiguous": true,
+    "kind": "message",
+    "split": "test",
+    "text": "Hi Owen, I'm a Talent Partner with Horizanthe Travel Group. Your background in hospitality looks like a strong match for our remote Travel Advisor openings (OTE $60K-$110K). We've streamlined onboarding into a short virtual overview so you can see if it's a fit before committing any time. Are you free tonight at 7 PM ET? I can send the link here.",
+    "note": "A polished recruiter message: wide OTE range, a same-night 'virtual overview' in place of an interview with a named manager. This is the opening step of the CBC-documented funnel. Ambiguous: on its own text it is close to a real recruiter message; the label rests on the overview-instead-of-interview pattern.",
+    "source": "https://www.youtube.com/watch?v=RioE6ClJbaM"
+  },
+  {
+    "id": "r3-scam-024",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "agreement",
+    "split": "test",
+    "text": "Travel Agent Certification & Membership Terms\n\nBy completing checkout you agree to:\n- A one-time Certification fee of $97.00, charged today.\n- A Membership of $69.95 per month, beginning after your 30-day training period, billed until cancelled.\n- Membership includes your booking platform, member travel discounts and access to weekly team calls.\n- An active Membership is required to receive any booking commission or referral reward.\n- Earnings shown in testimonials are not typical and are not a guarantee of income.\n\n[ ] I agree   [Complete checkout]",
+    "note": "Checkout terms for a 'travel agent' certification plus a recurring membership required to earn; matches BBB Scam Tracker reports of a $97 certification and a $69.95 monthly charge, and the FTC guidance that 'results not typical' disclaimers don't cure atypical earnings claims.",
+    "source": null
+  },
+  {
+    "id": "r3-scam-025",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Admin & Bookings Officer - Brisbane QLD\n$65,000 - $80,000 + super\n\nJoin our friendly team and look after travel bookings for our growing client list. Full training provided.\n\nPlease read before applying: this is a commission-based independent contractor opportunity. Your income depends on building your own client base and team. An initial business investment of $450 is required to set up your booking site and licences.\n\nApply with a short message about why you love travel.",
+    "note": "Australian ad with a salary-plus-super headline contradicted by its own small print (commission only, build a team, pay to start); Scamwatch on paying to join and recruiting-based rewards.",
+    "source": "https://www.scamwatch.gov.au/types-of-scams/jobs-and-employment-scams"
+  },
+  {
+    "id": "r3-scam-026",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: Your Travel Advisor application - next steps\n\nHello Anjali,\n\nThank you for your interest in the Travel Advisor role with Tidewyck Journeys. We've reviewed your application and would love to move forward.\n\nWe do not hold traditional interviews. Instead, please:\n1. Watch our 45-minute Opportunity video: tidewyckjourneys.com/watch\n2. Book a call with your assigned mentor, who will walk you through activating your business.\n\nPlease have a credit or debit card available for your call.\n\nKind regards,\nTidewyck Journeys Recruitment",
+    "note": "An 'application' answered with a video and a call to 'activate your business', card in hand: the job turns into a purchase. CBC report pattern; FTC: honest employers never charge you to get a job.",
+    "source": "https://consumer.ftc.gov/articles/job-scams"
+  },
+  {
+    "id": "r3-scam-027",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "message",
+    "split": "test",
+    "text": "G'day Sam, saw ur CV online. Flexi travel role going, earn $$$ while u holiday 🏝️ Not MLM!! just a membership + u get paid when ur mates join too. Keen? Will send the info vid",
+    "note": "Australian text: 'not MLM' disclaimer while describing pay for friends joining; Scamwatch warns about rewards for recruiting and pitches on social media.",
+    "source": "https://www.scamwatch.gov.au/types-of-scams/jobs-and-employment-scams"
+  },
+  {
+    "id": "r3-scam-028",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Vacation Rental Booking Specialist - Paid Training!\n\nWork from home booking vacation rentals for travellers worldwide. Earn $4,000-$9,000/month once certified.\n\nTraining investment: $1,295 (payment plans available, as low as $108/mo). Includes lifetime access, booking software and our private community. Graduates can also earn by referring new students.",
+    "note": "'Paid training' that the applicant pays for, with an earnings range and referral income; the FTC's job-scam page on fees for training or certification and the business-opportunity guidance on earnings claims.",
+    "source": "https://www.ftc.gov/business-guidance/resources/bogus-business-opportunities"
+  },
+  {
+    "id": "r3-scam-029",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Junior Marketing Coordinator\nHybrid - Charlotte, NC\n$52,000 - $68,000\n\nAbout us: Pellamy Path Marketing helps families achieve financial and lifestyle freedom through premium wellness products.\n\nWhat you'll do\n- Coordinate social campaigns\n- Host client events\n- Develop and lead your own marketing team\n\nCompensation: earned through our tiered performance plan. Coordinators progress to Leadership by building sales teams. All coordinators purchase the Marketing Toolkit ($249) and maintain a monthly product subscription.\n\nEOE",
+    "note": "Polished corporate-style posting whose compensation section describes an MLM: a salary range, then a tiered plan, team building, a toolkit purchase and a monthly subscription; the FTC MLM business guidance and the CBC report's look-alike ads.",
+    "source": "https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing"
+  },
+  {
+    "id": "r3-scam-030",
+    "label": "scam",
+    "ambiguous": false,
+    "kind": "invite",
+    "split": "test",
+    "text": "Career Information Evening - Leeds\nWednesday 7pm, the Calder Room, Weirbank Hotel\n\nThinking about a change? Join us for a relaxed evening to hear about our home-based travel business. Free entry, drinks provided.\n\nBring friends! Every guest you bring who registers on the night earns you a £50 referral bonus.\n\nRegistration on the night is £149 (normally £299).",
+    "note": "UK 'career' evening that is a recruitment event with pay for bringing guests who register and a discounted on-the-night fee; ASA on misleading MLM recruitment and Scamwatch on recruitment at gatherings.",
+    "source": "https://www.asa.org.uk/news/contacting-multi-level-marketing-companies-to-ensure-recruitment-ads-aren-t-misleading.html"
+  },
+  {
+    "id": "r3-legit-001",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Inside Sales Representative\nDenver, CO (on-site)\nBase salary $52,000 + commission | First-year OTE $85,000\n\nNorthcanyon Software sells scheduling tools to dental and veterinary clinics. You'll work inbound leads and book demos for our account executives.\n\nWhat we offer\n- W-2 employment, medical/dental/vision from day one\n- Commission paid monthly, uncapped; the full plan is in writing with your offer\n- 401(k) with 4% match, 15 days PTO\n\nProcess: recruiter phone screen, interview with the sales manager, short role-play, offer. We never ask candidates to pay for anything.",
+    "note": "Hard negative: commission, OTE and 'uncapped' language, but with a stated base, W-2 status, a written plan and a normal interview process.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-002",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Leisure Travel Advisor\nRemote (must live in MN, WI or IA)\n$48,000 - $58,000 salary + booking incentives\n\nLakeshire Travel Co. has planned family trips and honeymoons since 1994. We're adding an advisor to our team of twelve.\n\nYou will: plan custom itineraries, book air/hotel/cruise, handle changes and travel-day issues.\nWe offer: full benefits, paid familiarization trips, a company laptop, and we pay for your industry certification course.\n\nRequirements: 2+ years of travel booking or GDS experience.\nApply with a resume; interviews are by video with our agency owner.",
+    "note": "Hard negative: a real travel-advisor job with salary, employer-paid certification and travel perks; shares 'travel', 'booking', 'remote' and 'perks' vocabulary with the scam ads.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-003",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Travel Consultant - Corporate Accounts\nToronto, ON (hybrid, 3 days in office)\nCompensation: $50,000 - $62,000 per year, plus benefits\n\nThis posting is for an existing vacancy.\nWe do not use artificial intelligence to screen, assess or select applicants.\n\nAbout the role: manage travel for our corporate clients' employees, including air, rail and hotel, duty-of-care alerts and expense reporting.\n\nRequirements: travel counsellor certification (or willingness to complete it in your first 90 days; we reimburse the exam fee), 1+ year of booking experience.\n\nWe will let interviewed candidates know the outcome within 45 days.",
+    "note": "Hard negative built to Ontario's 2026 posting rules (a compensation range, an existing-vacancy statement, the AI disclosure); same city, title and salary shape as r3-scam-001.",
+    "source": "https://www.ahbl.ca/ontario-job-posting-rules-take-effect-on-january-1-2026/"
+  },
+  {
+    "id": "r3-legit-004",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "invite",
+    "split": "test",
+    "text": "OPEN HIRING DAY - Warehouse Associates\nSaturday, 9 AM - 1 PM\nPelloway Logistics, 4400 Riverbend Pkwy, Columbus OH\n\nWalk in, apply and interview on the spot. Starting pay $19.50/hr, $21/hr nights, weekly pay, benefits after 30 days.\n\nBring: a photo ID and your work history. Offers may be made the same day, contingent on a drug screen we pay for. There is no cost to apply.",
+    "note": "Hard negative: a real hiring event with group logistics, same-day offers and urgency-adjacent wording, but individual interviews, stated pay and no charge.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-005",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: Your first day - New Hire Orientation\n\nHi Gabriel,\n\nWelcome to Fairmeadow Health! Your first day is Monday, March 2, which is New Hire Orientation from 8:00 AM to 4:30 PM in Building C, Room 110. Orientation is paid at your regular hourly rate.\n\nPlease bring original documents for your Form I-9 (see the attached list of acceptable documents). Lunch is provided. Parking is free in Lot D.\n\nIf you have questions, call me at 555-0187.\n\nBest,\nMarisol Teague\nHR Onboarding Specialist",
+    "note": "Hard negative: a group 'orientation' that comes after an offer, is paid, and asks for official employment-eligibility documents.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-006",
+    "label": "legit",
+    "ambiguous": true,
+    "kind": "ad",
+    "split": "test",
+    "text": "Real Estate Sales Agent - Independent Contractor\nHarborline Realty, Tampa FL\n\nThis is a 1099, commission-only role. There is no base salary.\n\n- Commission split: 70/30 in your favour, 85/15 after you close $3M in a year\n- No desk fee, no monthly fee, no franchise fee\n- Free CRM, lead routing and weekly training\n\nYou need an active Florida sales associate licence. If you're not licensed yet, the pre-licensing course and state exam are your own cost (usually $300-$600 in total); we'll point you to approved schools. We do not pay you for recruiting other agents.",
+    "note": "Legit commission-only contractor role that discloses its terms; the candidate pays their own licensing. Ambiguous: commission-only plus candidate-paid exam overlaps strongly with the scam set; the IRS describes 1099 contractor status.",
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-defined"
+  },
+  {
+    "id": "r3-legit-007",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Insurance Agent Trainee - Spokane, WA\n$40,000 salary during your first 12 months + commission\n\nCopperleaf Mutual Agency is hiring trainees to grow into licensed property & casualty agents.\n\n- We provide the pre-licensing course free of charge\n- You pay the state exam fee (about $60 at the testing centre); we reimburse it once you pass\n- After year one: salary plus commission on renewals\n\nFull-time W-2, health insurance, paid holidays. Interviews with the agency principal.",
+    "note": "Hard negative: an insurance role mentioning a licensing exam fee paid by the candidate up front, but with a salary, an employer-paid course and reimbursement.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-008",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Own a Brightwick Home Cleaning franchise in your area\n\nWe're looking for owners, not employees. Brightwick franchisees run their own home-cleaning business with our brand, systems and support.\n\n- Initial franchise fee: $35,000\n- Estimated total initial investment: $85,000 - $140,000 (Item 7 of our Franchise Disclosure Document)\n- Ongoing royalty: 6% of gross revenue\n- Financial performance information is in Item 19\n\nWe will give you our Franchise Disclosure Document at least 14 days before you sign anything or pay us any money. Talk to current and former franchisees listed in Item 20 before you decide.",
+    "note": "Hard negative: honest franchise recruiting with fees stated, the FDD offered 14 days ahead and the franchisee lists pointed to, as the FTC's franchise guidance describes; pay-to-join but disclosed and not posing as a job.",
+    "source": "https://consumer.ftc.gov/consumer-alerts/2023/05/franchise-fundamentals-taking-deep-dive-franchise-disclosure-document"
+  },
+  {
+    "id": "r3-legit-009",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Delivery Driver (Independent Contractor) - Sacramento area\n\nDeliver grocery orders with your own car on your own schedule.\n\nHow pay works: you're paid per delivery ($7-$14 depending on distance), plus 100% of customer tips, deposited weekly. As a 1099 contractor you cover your own fuel, insurance and vehicle costs, and you'll get a 1099-NEC each January.\n\nRequirements: 21+, valid licence, insured vehicle, a background check (we pay for it).\nThere are no sign-up fees, starter kits or required purchases.",
+    "note": "Hard negative: honest gig work that discloses contractor status, per-task pay and costs borne by the worker; the IRS page on contractor status.",
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-defined"
+  },
+  {
+    "id": "r3-legit-010",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Field Sales Executive - North West\n£28,000 basic + uncapped commission (OTE £45,000) + company car\n\nAstwell Packaging supplies food-safe packaging to independent bakeries and cafés. You'll manage a territory of around 300 accounts across Greater Manchester and Lancashire.\n\nPackage: 25 days holiday + bank holidays, pension, car, phone and laptop. Commission paid monthly on gross margin.\n\nInterview process: a call with our talent team, then a face-to-face with the regional sales manager.",
+    "note": "Hard negative: UK sales role with OTE and 'uncapped' language next to a real basic salary, employee benefits and a two-stage interview.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-011",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Travel Consultant - Melbourne CBD\n$58,000 base + super + monthly incentives\n\nJoin a small, award-winning agency specialising in Japan and Southeast Asia. You'll look after walk-in and phone enquiries and build itineraries for our repeat clients.\n\nPerks: two famils a year, staff travel rates, your birthday off.\nYou'll need: 1+ year in retail travel or a Certificate IV in Travel and Tourism.\n\nApply with your CV and a short cover note. Shortlisted applicants will be called for an interview in store.",
+    "note": "Hard negative: an Australian travel-agency job with a base, super and travel perks; shares 'travel', 'consultant' and 'perks' vocabulary with r3-scam-009 and -025.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-012",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Sales Team Lead - SMB\nAustin, TX (hybrid)\n$95,000 base + 25% target bonus\n\nBuild your team: you'll hire, coach and lead a team of eight sales development reps, and you'll own the team's pipeline targets.\n\nYou bring: 3+ years in B2B sales, 1+ year leading people.\nWe bring: equity, full benefits, a $2,000 learning budget.\n\nInterviews: recruiter, hiring manager, a panel with two peers, and a coaching exercise.",
+    "note": "Hard negative: 'build your team' in its ordinary management sense, with a salary and a normal interview loop.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-013",
+    "label": "legit",
+    "ambiguous": true,
+    "kind": "ad",
+    "split": "test",
+    "text": "Independent Travel Advisors - Join Our Host Agency\n\nAlready selling travel, or ready to start? Westharrow Travel Network is a host agency: we give independent advisors our supplier contracts, booking tools, accreditation and back-office support.\n\nThe honest details:\n- You are an independent contractor, not an employee. There is no salary.\n- You keep 80% of the commission suppliers pay on your bookings.\n- Annual platform fee: $300. No starter kit, no monthly purchases.\n- We do not pay anyone for signing up other advisors. There is no downline.\n- Most new advisors earn under $10,000 in their first year; our full earnings disclosure is on our website.\n\nTalk to three of our current advisors before you decide.",
+    "note": "Legit host-agency model: the advisor pays a fee and is commission-only, but there is no recruitment pay and earnings are disclosed with typical figures, which the FTC MLM guidance asks for. Ambiguous: pay-to-join travel-agent work is exactly the scam set's subject.",
+    "source": "https://www.ftc.gov/business-guidance/resources/business-guidance-concerning-multi-level-marketing"
+  },
+  {
+    "id": "r3-legit-014",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: Interview - Accounts Payable Specialist (contract-to-hire)\n\nHi Tamsin,\n\nThanks for speaking with me yesterday. The hiring manager at our client, a regional food distributor, would like to interview you on Thursday at 10:30 AM at their Fresno office. I'll send the address and the manager's name once you confirm.\n\nThe role pays $27-$30/hr through our agency for six months, with the intention to hire. As a reminder, we never charge candidates; our fee is paid by the client.\n\nBest,\nOmar Petrakis\nRecruiter, Stillbrook Staffing\n555-0163",
+    "note": "Hard negative: staffing-agency email with an unnamed client, contract terms and an explicit no-fee statement; the FTC says honest placement firms are paid by the employer.",
+    "source": "https://consumer.ftc.gov/articles/job-scams"
+  },
+  {
+    "id": "r3-legit-015",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "invite",
+    "split": "test",
+    "text": "Employer Information Session: Graduate Rotational Program\nTuesday 5:30 PM, Student Union Room 214 (also streamed)\n\nMeet recruiters and recent graduates from Fenwick Rail Engineering and hear about our two-year rotational program in operations, finance and engineering (starting salary $68,000).\n\nPizza provided. Attendance is optional and does not affect your application; all applications go through the careers portal by Nov 30.",
+    "note": "Hard negative: a genuine campus 'information session' that is optional, separate from selection and states a salary.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-016",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "message",
+    "split": "test",
+    "text": "Hi Rohan, I'm the technical recruiter at Glasswing Analytics. We're hiring a Data Analyst II on the pricing team (remote, US; $92K-$110K base + bonus). I've attached the job description. Your SQL and experimentation work at your current company looks like a close match. If you're interested, I'd set up a 30-minute call with me and then a conversation with the hiring manager, Lena Ostrova. No cost or prep needed for the first call. Thanks!",
+    "note": "Hard negative: an unsolicited recruiter message with salary, a named company and hiring manager and a normal process; contrasts with r3-scam-023.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-017",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Brand Ambassador - Event Staff (part-time)\n$25/hr, W-2, paid weekly\n\nRepresent our clients' products at grocery stores, festivals and trade shows on weekends. Paid training (you're paid for it), uniform provided, mileage reimbursed over 20 miles.\n\nNo purchase or starter kit required. Apply online and we'll schedule a short video interview.",
+    "note": "Hard negative: 'brand ambassador' and 'paid weekly' wording like r3-scam-017, with hourly W-2 pay and no purchase.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-018",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Account Executive - Calgary, AB\n$60,000 base + commission\nFirst-year on-target earnings: $95,000 - $110,000\n\nThis posting is for an existing vacancy.\n\nOakhurst Fleet Telematics sells GPS and safety systems to trucking and construction companies in Western Canada. You'll own a territory and close new business.\n\nBenefits from day one, RRSP matching, car allowance. Interview steps: phone screen, manager interview, presentation to the sales director.",
+    "note": "Hard negative: Canadian commission sales with an honest base and OTE range and the Ontario-style existing-vacancy line.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-019",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "agreement",
+    "split": "test",
+    "text": "INDEPENDENT CONTRACTOR AGREEMENT (Marketing Services)\n\n1. Services. Contractor will provide social media content and campaign reporting as described in Schedule A.\n2. Fees. Company will pay Contractor $45.00 per hour, invoiced monthly, payable net 30.\n3. Status. Contractor is an independent contractor, responsible for their own taxes, equipment and schedule.\n4. No Fees to Company. Contractor is not required to pay the Company any fee, deposit or purchase as a condition of this Agreement.\n5. Term. Either party may end this Agreement with 14 days' written notice.\n\nSigned: Halvorsen Creative LLC / Contractor",
+    "note": "Hard negative: a contractor agreement with 'independent contractor, not employee' language like r3-scam-005, but the company pays the contractor and charges nothing.",
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-defined"
+  },
+  {
+    "id": "r3-legit-020",
+    "label": "legit",
+    "ambiguous": true,
+    "kind": "agreement",
+    "split": "test",
+    "text": "INDEPENDENT CONSULTANT AGREEMENT - Summary of Key Terms\n\nThis is not an offer of employment. As a Consultant you run your own small business selling Saltmere Candle products to customers.\n\n- Starter kit: optional, $0 (digital) or $99 (samples), sold at our cost.\n- No minimum monthly purchase is required to stay active or to earn commissions on your retail sales.\n- We buy back unsold, resalable inventory at 90% of what you paid, within 12 months.\n- Income Disclosure: in the last calendar year, the median annual earnings of all Consultants, including inactive ones, were $312. Most Consultants earn little or nothing.\n\nPlease read the full Income Disclosure Statement before you sign.",
+    "note": "A lawful direct-selling agreement with the safeguards the Competition Bureau and FTC describe (kit at cost, no purchase quota, buyback, typical-earnings disclosure). Ambiguous: pay-to-join MLM that never claims to be a job; labeled legit because it discloses honestly and asks for no purchase to earn.",
+    "source": "https://competition-bureau.canada.ca/deceptive-marketing-practices/types-deceptive-marketing-practices/multi-level-marketing-and-pyramid-selling"
+  },
+  {
+    "id": "r3-legit-021",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Real Estate Transaction Assistant\nScottsdale, AZ - Full-time\n$22 - $26 per hour, depending on licensing\n\nSupport a busy team of four agents: contracts, escrow deadlines, showings and client updates.\n\nA real estate licence is preferred. If you're not licensed, we'll pay for your pre-licensing course and exam after 90 days.\n\nW-2, health stipend, paid time off. Apply with a resume; interviews in our office.",
+    "note": "Hard negative: real-estate role mentioning licensing with an hourly wage and the employer paying the course.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-022",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "email",
+    "split": "test",
+    "text": "Subject: Offer - Territory Sales Representative\n\nDear Felix,\n\nWe're pleased to offer you the position of Territory Sales Representative, starting April 6.\n\nCompensation: for your first six months you'll receive a recoverable draw of $3,000 per month against commission. From month seven, pay is commission only at the rates in the attached Sales Compensation Plan. Your employment is W-2, and you'll always be paid at least the state minimum wage for hours worked.\n\nBenefits begin on the first of the month after your start date. Please review the plan and sign by March 20; feel free to ask questions or have someone review it with you.\n\nSincerely,\nPriyanka Desai\nVP Sales, Redfern Office Supply",
+    "note": "Hard negative: commission-heavy pay (a draw, then commission only) disclosed in writing at offer, with no fee, minimum-wage protection and no pressure to sign at once.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-023",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Mortgage Loan Officer - Commission\nDallas, TX\n\nW-2 role paid on commission (bps on funded volume), with a guaranteed minimum wage under state and federal law. Benefits eligible.\n\nYou'll need an active NMLS licence. Not licensed yet? We pay for your pre-licensing education and SAFE test fees and provide study time.\n\nApply online; interviews with the branch manager.",
+    "note": "Hard negative: a commission role with licensing language where the employer pays the fees.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-024",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Destination Wedding Coordinator\nOn-site at a resort in Riviera Maya (relocation provided)\nUS$46,000 salary + housing + meals\n\nPlan and run 4-6 weddings a week for guests from North America: vendor coordination, timelines, ceremony set-up, guest welcome.\n\nRequired: fluent English and Spanish, 2+ years in events or hospitality.\nWork permit sponsored by the resort. Interviews by video, then a paid trial week.",
+    "note": "Hard negative: 'destination' travel vocabulary with salary, housing and a sponsored work permit; nothing is charged to the candidate.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-025",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Travel Sales Consultant - Manchester\n£24,500 basic, OTE £35,000\n\nSell tailor-made holidays to Italy and Greece by phone and email from our city-centre office.\n\nWhat you get: 28 days holiday (rising with service), heavily discounted staff holidays, industry-recognised training in your first year, a pension and a monthly commission plan.\n\nNo previous travel experience needed, but you'll need strong sales or customer service experience.\nApply with your CV. Assessment day includes a group exercise and an individual interview.",
+    "note": "Hard negative: UK travel sales with OTE, 'no experience needed' and a group assessment day, but a basic salary, employee benefits and an individual interview.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-026",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "invite",
+    "split": "test",
+    "text": "WALK-IN INTERVIEWS THIS SATURDAY\nCustomer Care Agents - Tempe Contact Center\n10 AM - 2 PM, 1820 W Orchard Ln\n\n$21/hr + monthly performance bonus, full benefits, paid training (4 weeks, at full pay).\n\nBring your resume. Interviews are one-on-one with a team supervisor and take about 20 minutes. There is no fee to apply or to train.",
+    "note": "Hard negative: open interviews with paid training described plainly; contrasts with r3-scam-019's group presentation.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-027",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "message",
+    "split": "test",
+    "text": "Hi Jordan, this is Lena from Kestrelbay Family Clinic HR. Thanks for applying for the Front Desk Coordinator position. Are you available for a 15-minute phone screen on Tue at 2 PM? Reply 1 to confirm or 2 to pick another time. Msg & data rates may apply. Reply STOP to opt out.",
+    "note": "Hard negative: a text from an applicant-tracking system after the candidate applied, with reply codes and opt-out language like r3-scam-007, but for a specific job and a phone screen.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-028",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Online Math Tutors (freelance)\n\nTeach students one-on-one through our platform. You set your own hourly rate (most tutors charge $30-$60) and your own schedule. We keep a 18% platform commission on each paid lesson; you keep the rest, paid out every two weeks.\n\nThere is no sign-up fee, subscription or required training purchase. You're an independent contractor and will receive a 1099-NEC if you earn over the reporting threshold.",
+    "note": "Hard negative: honest platform gig work with 'set your own rate/schedule' wording; the platform's cut is disclosed and the worker pays nothing up front.",
+    "source": "https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-defined"
+  },
+  {
+    "id": "r3-legit-029",
+    "label": "legit",
+    "ambiguous": true,
+    "kind": "ad",
+    "split": "test",
+    "text": "Independent Life & Health Insurance Agent - Commission Only\nRemote (licensed states: GA, SC, NC)\n\nPlease read carefully: this is a 1099 independent contractor role with no salary. You're paid commission by the insurance carriers on the policies you write.\n\nYour costs: your state licence (roughly $150 for the exam and application) and errors & omissions insurance (about $40/month). You do not pay us anything. You are never required to recruit other agents, and you do not earn anything from other agents' sales.\n\nWe provide: carrier contracts, warm leads at no charge, and weekly training.",
+    "note": "Legit commission-only insurance role with costs borne by the agent, all disclosed and with no recruiting income. Ambiguous: candidate-paid licensing and E&O plus 'commission only' and 'remote' overlap the scam set.",
+    "source": null
+  },
+  {
+    "id": "r3-legit-030",
+    "label": "legit",
+    "ambiguous": false,
+    "kind": "ad",
+    "split": "test",
+    "text": "Sales Representative - Solar (Perth WA)\n$1,000 per week retainer + commission\n\nVisit homeowners who have requested a quote and help them choose a system. Average reps earn $85,000-$100,000 a year including commission; your contract shows the retainer and commission rates in writing.\n\nCompany vehicle, fuel card and iPad provided. No upfront costs. Interviews in our Osborne Park office.",
+    "note": "Hard negative: Australian sales role with a weekly retainer, average (not top) earnings and written rates, nothing paid by the candidate.",
+    "source": null
+  }
+]

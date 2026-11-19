@@ -1,0 +1,42 @@
+{
+  "name": "job-red-flag-checker",
+  "version": "0.6.1",
+  "description": "Spot the warning signs of a fake or scam job posting or recruiter message. Quotes the exact line behind every flag. Rules only: no AI, no network, nothing stored.",
+  "main": "src/red-flags.js",
+  "bin": {
+    "red-flags": "bin/red-flags.js"
+  },
+  "files": [
+    "src/",
+    "bin/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "keywords": [
+    "job scam",
+    "task scam",
+    "recruiter scam",
+    "fake job posting",
+    "job search",
+    "employment fraud",
+    "job seekers",
+    "red flags",
+    "scam detection"
+  ],
+  "homepage": "https://readytoapply.ai/job-scam-checker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/readytoapply/job-red-flag-checker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/readytoapply/job-red-flag-checker/issues"
+  },
+  "author": "Ready to Apply (https://readytoapply.ai)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
